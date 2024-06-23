@@ -1,0 +1,12 @@
+.env
+python
+OPENAI_API_KEY
+api_key
+.envrc
+.ipynb_checkpoints
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
